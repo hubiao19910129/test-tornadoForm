@@ -29,8 +29,9 @@ class MqLibrary():
 
     # stomp协议，自带on_message函数，消费mq队列消息后，能获取到队列中的message值
     def on_message(self, headers, message):
-        self.logger.info('headers: %s' % headers)
-        self.logger.info('message: %s' % message)
+        self.logger.info("接收消息头为：{}".format(headers))
+        self.logger.info("接收消息体为：{}".format(message))
+
 
     # 推送到队列queue
     def send_to_queue(self):
@@ -55,11 +56,12 @@ class MqLibrary():
             conn = stomp.Connection10([(self.IP, self.port)])
 
             self.logger.info("接收消息地址为:{:}".format(self.address))
-            self.logger.info("接收消息队列为:{:}".format(self.queue_name))
             conn.set_listener(self.listener_name, ActiveMq)
             # conn.start()
             conn.connect()
             conn.subscribe(self.queue_name)
+            self.logger.info("接收消息队列为:{:}".format(self.queue_name))
+
             time.sleep(1)  # secs
 
         except Exception as e:
@@ -104,6 +106,6 @@ class MqLibrary():
 if __name__ == '__main__':
     ActiveMq = MqLibrary()
     ActiveMq.send_to_queue()
-    # ActiveMq.receive_from_queue()
+    ActiveMq.receive_from_queue()
     ActiveMq.send_to_topic()
     ActiveMq.receive_from_topic()
