@@ -1,82 +1,167 @@
-2020-04-25 19:52:47,622 [server][thread:6452] D:/python3/tornadoFrame1/server.py[line13][ERROR]:log引用测试
-2020-04-25 19:53:32,345 [server][thread:16076] D:/python3/tornadoFrame1/server.py[line11][ERROR]:log引用测试
-2020-04-25 19:57:57,465 [server][thread:16420] D:/python3/tornadoFrame1/server.py[line19][INFO]:服务连接成功
-2020-04-25 19:58:07,932 [server][thread:10040] D:/python3/tornadoFrame1/server.py[line19][INFO]:服务连接成功
-2020-04-25 20:00:44,209 [server][thread:18016] D:/python3/tornadoFrame1/server.py[line19][INFO]:服务绑定端口为8000
-2020-04-25 20:00:44,209 [server][thread:18016] D:/python3/tornadoFrame1/server.py[line21][INFO]:服务连接成功
-2020-04-25 20:01:52,327 [server][thread:13404] D:/python3/tornadoFrame1/server.py[line19][INFO]:服务绑定端口为8000
-2020-04-25 20:02:16,743 [server][thread:11580] D:/python3/tornadoFrame1/server.py[line19][INFO]:服务绑定端口为8000
-2020-04-25 20:02:16,747 [server][thread:11580] D:/python3/tornadoFrame1/server.py[line21][INFO]:服务启动成功……
-2020-04-25 20:02:52,479 [server][thread:8848] D:/python3/tornadoFrame1/server.py[line19][INFO]:服务绑定端口为8000
-2020-04-25 20:02:52,487 [server][thread:8848] D:/python3/tornadoFrame1/server.py[line21][INFO]:服务启动成功……
-2020-04-25 20:06:45,773 [server][thread:16040] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务绑定端口为8000
-2020-04-25 20:06:45,780 [server][thread:16040] D:/python3/tornadoFrame1/server.py[line24][INFO]:服务启动成功……
-2020-04-25 20:08:24,277 [server][thread:2008] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务绑定端口为8000
-2020-04-25 20:08:24,285 [server][thread:2008] D:/python3/tornadoFrame1/server.py[line24][INFO]:服务启动成功……
-2020-04-25 20:09:38,765 [server][thread:18600] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为8000
-2020-04-25 20:09:38,765 [server][thread:18600] D:/python3/tornadoFrame1/server.py[line23][INFO]:服务绑定端口为8000
-2020-04-25 20:09:38,773 [server][thread:18600] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务启动成功……
-2020-04-25 20:09:48,792 [server][thread:6756] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:09:48,792 [server][thread:6756] D:/python3/tornadoFrame1/server.py[line23][INFO]:服务绑定端口为8000
-2020-04-25 20:09:48,800 [server][thread:6756] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务启动成功……
-2020-04-25 20:12:44,380 [server][thread:9132] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:12:44,380 [server][thread:9132] D:/python3/tornadoFrame1/server.py[line23][INFO]:服务绑定端口为8000
-2020-04-25 20:12:44,387 [server][thread:9132] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务启动成功……
-2020-04-25 20:14:00,327 [server][thread:13212] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:14:00,328 [server][thread:13212] D:/python3/tornadoFrame1/server.py[line23][INFO]:服务绑定端口为8000
-2020-04-25 20:14:00,335 [server][thread:13212] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务启动成功……
-2020-04-25 20:14:16,409 [server][thread:15488] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:14:16,409 [server][thread:15488] D:/python3/tornadoFrame1/server.py[line23][INFO]:服务绑定端口为8000
-2020-04-25 20:14:16,417 [server][thread:15488] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务启动成功……
-2020-04-25 20:17:51,882 [server][thread:1988] D:/python3/tornadoFrame1/server.py[line24][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:17:51,882 [server][thread:1988] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务绑定端口为8000
-2020-04-25 20:17:51,890 [server][thread:1988] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务启动成功……
-2020-04-25 20:19:19,142 [server][thread:960] D:/python3/tornadoFrame1/server.py[line24][INFO]:服务IP地址为['14.215.177.39', '14.215.177.38']
-2020-04-25 20:19:19,142 [server][thread:960] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务绑定端口为8000
-2020-04-25 20:19:19,149 [server][thread:960] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务启动成功……
-2020-04-25 20:20:30,308 [server][thread:16704] D:/python3/tornadoFrame1/server.py[line24][INFO]:服务IP地址为['14.215.177.39', '14.215.177.38']
-2020-04-25 20:20:30,308 [server][thread:16704] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务绑定端口为8000
-2020-04-25 20:20:30,316 [server][thread:16704] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务启动成功……
-2020-04-25 20:23:06,850 [server][thread:2940] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:23:06,850 [server][thread:2940] D:/python3/tornadoFrame1/server.py[line23][INFO]:服务绑定端口为8000
-2020-04-25 20:23:06,857 [server][thread:2940] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务启动成功……
-2020-04-25 20:31:07,352 [server][thread:3840] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:31:07,352 [server][thread:3840] D:/python3/tornadoFrame1/server.py[line23][INFO]:服务绑定端口为8000
-2020-04-25 20:31:07,360 [server][thread:3840] D:/python3/tornadoFrame1/server.py[line25][INFO]:服务启动成功……
-2020-04-25 20:31:19,936 [server][thread:4044] D:/python3/tornadoFrame1/server.py[line22][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:31:19,936 [server][thread:4044] D:/python3/tornadoFrame1/server.py[line28][ERROR]:name 'port1' is not defined
-2020-04-25 20:34:56,781 [server][thread:10416] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:34:56,781 [server][thread:10416] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:34:56,788 [server][thread:10416] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-25 20:36:08,389 [server][thread:19264] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:36:08,390 [server][thread:19264] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:36:08,397 [server][thread:19264] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-25 20:37:22,766 [server][thread:10400] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:37:22,766 [server][thread:10400] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:37:22,773 [server][thread:10400] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-25 20:48:34,915 [server][thread:2580] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:48:34,915 [server][thread:2580] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:48:34,923 [server][thread:2580] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-25 20:48:39,528 [index][thread:2580] D:\python3\tornadoFrame1\views\index.py[line15][INFO]:请求参数Word1:good
-请求参数Word2:nice
-2020-04-25 20:48:39,528 [index][thread:2580] D:\python3\tornadoFrame1\views\index.py[line17][INFO]:HubiaoHandler请求结果为：None
-2020-04-25 20:50:33,729 [server][thread:18740] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:50:33,729 [server][thread:18740] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:50:33,737 [server][thread:18740] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-25 20:50:37,296 [index][thread:18740] D:\python3\tornadoFrame1\views\index.py[line15][INFO]:
-请求参数Word1:good
-请求参数Word2:nice
-2020-04-25 20:50:37,297 [index][thread:18740] D:\python3\tornadoFrame1\views\index.py[line17][INFO]:/HubiaoHandler请求成功……
-2020-04-25 20:52:01,229 [server][thread:10980] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:52:01,229 [server][thread:10980] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:52:01,238 [server][thread:10980] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-25 20:52:04,361 [index][thread:10980] D:\python3\tornadoFrame1\views\index.py[line16][INFO]:
-请求参数Word1:good
-请求参数Word2:nice
-2020-04-25 20:52:04,361 [index][thread:10980] D:\python3\tornadoFrame1\views\index.py[line18][INFO]:/HubiaoHandler请求成功……
-2020-04-25 20:55:08,093 [server][thread:7784] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:55:08,094 [server][thread:7784] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:55:08,101 [server][thread:7784] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-25 20:55:12,308 [server][thread:17364] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.102']
-2020-04-25 20:55:12,308 [server][thread:17364] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-25 20:55:12,316 [server][thread:17364] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-25 22:48:52,472 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line34][INFO]:发送地址为:172.20.6.22:61616
+2020-04-25 22:48:52,472 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line35][INFO]:发送队列为:msg-dispatcher.base.hello
+2020-04-25 22:48:52,473 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line38][INFO]:推送消息体:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:48:52,474 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line49][INFO]:接收地址为:172.20.6.22:61616
+2020-04-25 22:48:52,474 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line50][INFO]:接收队列为:msg-dispatcher.base.hello
+2020-04-25 22:48:52,501 [activemq][thread:3932] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4017:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587826055061', 'expires': '0', 'priority': '4'}
+2020-04-25 22:48:52,501 [activemq][thread:3932] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:48:52,501 [activemq][thread:3932] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4021:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587826105996', 'expires': '0', 'priority': '4'}
+2020-04-25 22:48:52,501 [activemq][thread:3932] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:48:52,506 [activemq][thread:3932] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4023:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587826133203', 'expires': '0', 'priority': '4'}
+2020-04-25 22:48:52,506 [activemq][thread:3932] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:48:53,482 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:48:53,491 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:发送主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:48:53,491 [activemq][thread:8604] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:发送主题内容为:IOS/50263545/220282199101292936
+2020-04-25 22:50:13,822 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line34][INFO]:发送地址为:172.20.6.22:61616
+2020-04-25 22:50:13,822 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line35][INFO]:发送队列为:msg-dispatcher.base.hello
+2020-04-25 22:50:13,822 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line38][INFO]:推送消息体:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:50:13,822 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line49][INFO]:接收地址为:172.20.6.22:61616
+2020-04-25 22:50:13,823 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line50][INFO]:接收队列为:msg-dispatcher.base.hello
+2020-04-25 22:50:13,882 [activemq][thread:11296] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4026:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587826214557', 'expires': '0', 'priority': '4'}
+2020-04-25 22:50:13,882 [activemq][thread:11296] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:50:14,831 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:50:14,843 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:50:14,843 [activemq][thread:6848] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:IOS/50263545/220282199101292936
+2020-04-25 22:57:08,408 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line34][INFO]:发送地址为:172.20.6.22:61616
+2020-04-25 22:57:08,408 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line35][INFO]:发送队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:08,408 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line38][INFO]:推送消息体:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:57:08,409 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line49][INFO]:接收地址为:172.20.6.22:61616
+2020-04-25 22:57:08,409 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line50][INFO]:接收队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:08,469 [activemq][thread:14604] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4029:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587826629151', 'expires': '0', 'priority': '4'}
+2020-04-25 22:57:08,469 [activemq][thread:14604] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:57:09,417 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:09,426 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:09,426 [activemq][thread:8668] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:IOS/50263545/220282199101292936
+2020-04-25 22:57:42,680 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line34][INFO]:发送地址为:172.20.6.22:61616
+2020-04-25 22:57:42,680 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line35][INFO]:发送队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:42,681 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line38][INFO]:推送消息体:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:57:42,681 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line49][INFO]:接收地址为:172.20.6.22:61616
+2020-04-25 22:57:42,681 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line50][INFO]:接收队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:42,740 [activemq][thread:6808] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4032:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587826663424', 'expires': '0', 'priority': '4'}
+2020-04-25 22:57:42,740 [activemq][thread:6808] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 22:57:43,688 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:43,700 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:43,700 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:IOS/50263545/220282199101292936
+2020-04-25 22:57:43,701 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line81][INFO]:接收主题地址为:172.20.6.22:61616
+2020-04-25 22:57:43,701 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line82][INFO]:接收主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:43,709 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:43,717 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:43,717 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:57:43,761 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4036:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826664461', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:57:43,761 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:57:46,718 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:46,728 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:46,728 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:57:46,741 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4037:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826667473', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:57:46,741 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:57:49,728 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:49,736 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:49,736 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:57:49,747 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4038:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826670481', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:57:49,748 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:57:52,737 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:52,744 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:52,745 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:57:52,756 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4039:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826673489', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:57:52,756 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:57:55,745 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:55,754 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:55,754 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:57:55,765 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4040:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826676499', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:57:55,766 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:57:58,755 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:57:58,764 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:57:58,764 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:57:58,774 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4041:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826679508', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:57:58,775 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:58:01,765 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:58:01,773 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:58:01,773 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:58:01,784 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4042:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826682518', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:58:01,785 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:58:04,774 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:58:04,783 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:58:04,784 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:58:04,795 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4043:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826685529', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:58:04,795 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:58:07,784 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:58:07,792 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:58:07,792 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:58:07,803 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4044:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826688537', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:58:07,803 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:58:10,793 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:58:10,801 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:58:10,801 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:58:10,811 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4045:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826691545', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:58:10,811 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 22:58:13,803 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 22:58:13,861 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 22:58:13,862 [activemq][thread:15904] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:topic
+2020-04-25 22:58:13,873 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4046:-1:1:1', 'destination': '/topic/SampleTopic', 'timestamp': '1587826694606', 'expires': '0', 'content-length': '5', 'priority': '4'}
+2020-04-25 22:58:13,873 [activemq][thread:12972] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: topic
+2020-04-25 23:01:38,700 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line34][INFO]:发送地址为:172.20.6.22:61616
+2020-04-25 23:01:38,700 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line35][INFO]:发送队列为:msg-dispatcher.base.hello
+2020-04-25 23:01:38,700 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line38][INFO]:推送消息体:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:01:38,700 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line49][INFO]:接收地址为:172.20.6.22:61616
+2020-04-25 23:01:38,701 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line50][INFO]:接收队列为:msg-dispatcher.base.hello
+2020-04-25 23:01:38,761 [activemq][thread:17084] D:/python3/tornadoFrame1/mq/activemq.py[line24][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4047:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587826899446', 'expires': '0', 'priority': '4'}
+2020-04-25 23:01:38,761 [activemq][thread:17084] D:/python3/tornadoFrame1/mq/activemq.py[line25][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:01:39,709 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line66][INFO]:发送主题地址为:172.20.6.22:61616
+2020-04-25 23:01:39,718 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line71][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:01:39,718 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line72][INFO]:订阅主题内容为:IOS/50263545/220282199101292936
+2020-04-25 23:01:39,718 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line82][INFO]:接收主题地址为:172.20.6.22:61616
+2020-04-25 23:01:39,719 [activemq][thread:3720] D:/python3/tornadoFrame1/mq/activemq.py[line83][INFO]:接收主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:14:58,470 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line41][INFO]:发送地址为:172.20.6.22:61616
+2020-04-25 23:14:58,471 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line42][INFO]:发送队列为:msg-dispatcher.base.hello
+2020-04-25 23:14:58,471 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line45][INFO]:推送消息体:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:14:58,471 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line56][INFO]:接收地址为:172.20.6.22:61616
+2020-04-25 23:14:58,471 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line57][INFO]:接收队列为:msg-dispatcher.base.hello
+2020-04-25 23:14:58,531 [activemq][thread:14772] D:/python3/tornadoFrame1/mq/activemq.py[line31][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4051:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587827699229', 'expires': '0', 'priority': '4'}
+2020-04-25 23:14:58,532 [activemq][thread:14772] D:/python3/tornadoFrame1/mq/activemq.py[line32][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:14:59,480 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line73][INFO]:订阅主题地址为:172.20.6.22:61616
+2020-04-25 23:14:59,492 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line78][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:14:59,492 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line79][INFO]:订阅主题内容为:IOS/50263545/220282199101292936
+2020-04-25 23:14:59,493 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line89][INFO]:接收主题地址为:172.20.6.22:61616
+2020-04-25 23:14:59,493 [activemq][thread:10620] D:/python3/tornadoFrame1/mq/activemq.py[line90][INFO]:接收主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:23:47,825 [activemq][thread:6556] D:/python3/tornadoFrame1/mq/activemq.py[line42][INFO]:发送消息地址为:172.20.6.22:61616
+2020-04-25 23:23:47,825 [activemq][thread:6556] D:/python3/tornadoFrame1/mq/activemq.py[line43][INFO]:发送消息队列为:msg-dispatcher.base.hello
+2020-04-25 23:23:47,826 [activemq][thread:6556] D:/python3/tornadoFrame1/mq/activemq.py[line46][INFO]:推送消息体为:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:23:47,826 [activemq][thread:6556] D:/python3/tornadoFrame1/mq/activemq.py[line57][INFO]:接收消息地址为:172.20.6.22:61616
+2020-04-25 23:23:47,826 [activemq][thread:6556] D:/python3/tornadoFrame1/mq/activemq.py[line58][INFO]:接收消息队列为:msg-dispatcher.base.hello
+2020-04-25 23:23:47,886 [activemq][thread:18004] D:/python3/tornadoFrame1/mq/activemq.py[line32][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4055:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587828228589', 'expires': '0', 'priority': '4'}
+2020-04-25 23:23:47,886 [activemq][thread:18004] D:/python3/tornadoFrame1/mq/activemq.py[line33][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:24:04,483 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line42][INFO]:发送消息地址为:172.20.6.22:61616
+2020-04-25 23:24:04,484 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line43][INFO]:发送消息队列为:msg-dispatcher.base.hello
+2020-04-25 23:24:04,484 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line46][INFO]:推送消息体为:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:24:04,484 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line57][INFO]:接收消息地址为:172.20.6.22:61616
+2020-04-25 23:24:04,484 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line58][INFO]:接收消息队列为:msg-dispatcher.base.hello
+2020-04-25 23:24:04,545 [activemq][thread:8896] D:/python3/tornadoFrame1/mq/activemq.py[line32][INFO]:headers: {'message-id': 'ID:003.oracle.fund.dc.com-32829-1577710915598-8:4057:-1:1:1', 'destination': '/queue/msg-dispatcher.base.hello', 'timestamp': '1587828245238', 'expires': '0', 'priority': '4'}
+2020-04-25 23:24:04,545 [activemq][thread:8896] D:/python3/tornadoFrame1/mq/activemq.py[line33][INFO]:message: {"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:24:05,493 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line74][INFO]:订阅主题地址为:172.20.6.22:61616
+2020-04-25 23:24:05,501 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line79][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:24:05,501 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line80][INFO]:订阅主题内容为:"Android/50263545/220282199101292936"
+2020-04-25 23:24:05,501 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line90][INFO]:接收主题地址为:172.20.6.22:61616
+2020-04-25 23:24:05,502 [activemq][thread:4044] D:/python3/tornadoFrame1/mq/activemq.py[line91][INFO]:接收主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:24:47,329 [activemq][thread:4560] D:/python3/tornadoFrame1/mq/activemq.py[line42][INFO]:发送消息地址为:172.20.6.22:61616
+2020-04-25 23:24:47,330 [activemq][thread:4560] D:/python3/tornadoFrame1/mq/activemq.py[line43][INFO]:发送消息队列为:msg-dispatcher.base.hello
+2020-04-25 23:24:47,330 [activemq][thread:4560] D:/python3/tornadoFrame1/mq/activemq.py[line46][INFO]:推送消息体为:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:24:47,330 [activemq][thread:4560] D:/python3/tornadoFrame1/mq/activemq.py[line90][INFO]:接收主题地址为:172.20.6.22:61616
+2020-04-25 23:24:47,330 [activemq][thread:4560] D:/python3/tornadoFrame1/mq/activemq.py[line91][INFO]:接收主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:25:03,000 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line42][INFO]:发送消息地址为:172.20.6.22:61616
+2020-04-25 23:25:03,000 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line43][INFO]:发送消息队列为:msg-dispatcher.base.hello
+2020-04-25 23:25:03,000 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line46][INFO]:推送消息体为:
+{"body": "{\"agentId\":\"50265632\",\"bindTime\":\"2020-04-16 09:22:06\",\"merchNo\":\"K20033000001712\",\"name\":\"\u6613\u9759\",\"phone\":\"151****0003\",\"possn\":\"JLTY102875\",\"termNo\":\"\"}", "notify_time": "2020-04-16 09:22:07", "notify_type": "mpos_bind_message", "route_info": [{"keyword": "agent_id", "value": "50265632"}]}
+2020-04-25 23:25:03,001 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line74][INFO]:订阅主题地址为:172.20.6.22:61616
+2020-04-25 23:25:03,009 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line79][INFO]:订阅主题队列为:msg-dispatcher.base.hello
+2020-04-25 23:25:03,009 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line80][INFO]:订阅主题内容为:"Android/50263545/220282199101292936"
+2020-04-25 23:25:03,010 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line90][INFO]:接收主题地址为:172.20.6.22:61616
+2020-04-25 23:25:03,010 [activemq][thread:12656] D:/python3/tornadoFrame1/mq/activemq.py[line91][INFO]:接收主题队列为:msg-dispatcher.base.hello
