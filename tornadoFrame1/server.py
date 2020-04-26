@@ -3,7 +3,7 @@ import tornado.httpserver
 import config
 from application import Application
 import socket
-from logconfig.package_timeRotateLog import TimeRotateLog
+from logconfig.package_timeRotateLog import RotateLog
 
 
 class Server(object):
@@ -15,7 +15,7 @@ class Server(object):
         #获取主机IP地址列表
         self.hostIp = self.hostInfo[-1]
         #引用日志模块
-        self.logger = TimeRotateLog().time_rotate_log()
+        self.logger = RotateLog().time_rotate_log()
 
     def application_start(self):
         try:
@@ -29,7 +29,7 @@ class Server(object):
             self.logger.info("服务启动成功……")
             tornado.ioloop.IOLoop.current().start()
         except Exception as e:
-            self.logger.error(e)
+            self.logger.exception(e)
 
 
 if __name__ == "__main__":

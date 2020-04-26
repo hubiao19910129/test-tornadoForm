@@ -2,7 +2,7 @@
 import os
 BASE_DIRS = os.path.dirname(__file__)
 
-##### 参数部分
+##### 参数部分,端口号范围8000~60000/65535最合适
 options = {
     "port":8000,
     }
