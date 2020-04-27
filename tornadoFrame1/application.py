@@ -17,7 +17,13 @@ class Application(tornado.web.Application):
 
             #提取uri的特定部分
             # (r"/Liuyifei/(\w+)/(\w+)/(\w*)",index.LiuyifeiHandler)
-            (r"/Liuyifei/(?P<h1>\w+)/(?P<h3>\w+)/(?P<h2>\w*)",index.LiuyifeiHandler)
+            (r"/Liuyifei/(?P<h1>\w+)/(?P<h3>\w+)/(?P<h2>\w*)",index.LiuyifeiHandler),
+
+            #get浏览器传参192.168.137.1:8000/Zhangmanyu?a=1&b=2&c=3
+            (r"/Zhangmanyu",index.ZhangmanyuHandler),
+
+            #post
+            (r"/Agent",index.AgentHandler),
 
         ]
 

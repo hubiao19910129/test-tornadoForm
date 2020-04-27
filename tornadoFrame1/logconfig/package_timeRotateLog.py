@@ -15,7 +15,7 @@ class RotateLog(object):
     def rotate_log(self):
         configFile = os.path.join(self.base_path,"log_rotate_conf.ini")
         logging.config.fileConfig(configFile)
-        logger = logging.getLogger("example03")
+        logger = logging.getLogger("rotate")
         return logger
 
 if __name__ == "__main__":

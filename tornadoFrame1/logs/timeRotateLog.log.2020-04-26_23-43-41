@@ -1,0 +1,170 @@
+2020-04-26 22:36:17,955 [package_timeRotateLog][thread:9072] D:/python3/tornadoFrame1/logconfig/package_timeRotateLog.py[line23][ERROR]:我是log时间循环处理
+2020-04-26 22:37:28,532 [server][thread:4400] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 22:37:28,532 [server][thread:4400] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 22:37:28,576 [server][thread:4400] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 22:38:43,324 [index][thread:4400] D:\python3\tornadoFrame1\views\index.py[line10][INFO]:/IndexHandler请求成功……
+2020-04-26 22:38:45,499 [index][thread:4400] D:\python3\tornadoFrame1\views\index.py[line28][INFO]:
+请求参数Word1:cool
+请求参数Word2:beautiful
+2020-04-26 22:38:45,500 [index][thread:4400] D:\python3\tornadoFrame1\views\index.py[line30][INFO]:/ZhuyinHandler请求成功……
+2020-04-26 22:40:36,056 [server][thread:15104] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 22:40:36,056 [server][thread:15104] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 22:40:36,064 [server][thread:15104] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 22:40:42,339 [index][thread:15104] D:\python3\tornadoFrame1\views\index.py[line28][INFO]:
+请求参数Word1:cool
+请求参数Word2:beautiful
+2020-04-26 22:40:42,339 [index][thread:15104] D:\python3\tornadoFrame1\views\index.py[line30][INFO]:/ZhuyinHandler请求成功……
+2020-04-26 22:41:42,313 [server][thread:8404] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 22:41:42,313 [server][thread:8404] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 22:41:42,320 [server][thread:8404] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 22:41:47,961 [index][thread:8404] D:\python3\tornadoFrame1\views\index.py[line9][INFO]:反向解析到url:/fanxiangjiexi
+2020-04-26 22:41:47,961 [index][thread:8404] D:\python3\tornadoFrame1\views\index.py[line11][INFO]:/IndexHandler请求成功……
+2020-04-26 22:42:55,049 [server][thread:18568] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 22:42:55,049 [server][thread:18568] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 22:42:55,057 [server][thread:18568] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 22:42:59,115 [index][thread:18568] D:\python3\tornadoFrame1\views\index.py[line10][INFO]:/IndexHandler请求成功……
+2020-04-26 22:42:59,115 [index][thread:18568] D:\python3\tornadoFrame1\views\index.py[line11][ERROR]:点击反向解析到url:/fanxiangjiexi
+NoneType: None
+2020-04-26 22:43:25,428 [server][thread:19300] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 22:43:25,428 [server][thread:19300] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 22:43:25,436 [server][thread:19300] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 22:43:29,663 [index][thread:19300] D:\python3\tornadoFrame1\views\index.py[line10][INFO]:/IndexHandler请求成功……
+2020-04-26 22:43:29,664 [index][thread:19300] D:\python3\tornadoFrame1\views\index.py[line11][INFO]:点击反向解析到url:/fanxiangjiexi
+2020-04-26 22:43:35,258 [index][thread:19300] D:\python3\tornadoFrame1\views\index.py[line29][INFO]:
+请求参数Word1:cool
+请求参数Word2:beautiful
+2020-04-26 22:43:35,258 [index][thread:19300] D:\python3\tornadoFrame1\views\index.py[line31][INFO]:/ZhuyinHandler请求成功……
+2020-04-26 22:44:35,310 [server][thread:9992] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 22:44:35,310 [server][thread:9992] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 22:44:35,318 [server][thread:9992] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 22:44:40,740 [index][thread:9992] D:\python3\tornadoFrame1\views\index.py[line10][INFO]:/IndexHandler请求成功……
+2020-04-26 22:44:40,740 [index][thread:9992] D:\python3\tornadoFrame1\views\index.py[line11][INFO]:点击反向解析到url:/fanxiangjiexi
+2020-04-26 22:44:42,562 [index][thread:9992] D:\python3\tornadoFrame1\views\index.py[line29][INFO]:
+请求参数Word1:cool
+请求参数Word2:beautiful
+2020-04-26 22:44:42,563 [index][thread:9992] D:\python3\tornadoFrame1\views\index.py[line31][INFO]:/ZhuyinHandler请求成功……
+2020-04-26 23:13:32,871 [server][thread:6412] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:13:32,872 [server][thread:6412] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:13:32,879 [server][thread:6412] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:13:59,702 [server][thread:15096] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:13:59,703 [server][thread:15096] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:13:59,710 [server][thread:15096] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:15:51,428 [server][thread:2892] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:15:51,428 [server][thread:2892] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:15:51,436 [server][thread:2892] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:15:55,188 [index][thread:2892] D:\python3\tornadoFrame1\views\index.py[line38][INFO]:LiuyifeiHandler请求成功
+2020-04-26 23:17:01,557 [server][thread:18884] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:17:01,557 [server][thread:18884] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:17:01,564 [server][thread:18884] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:17:24,261 [server][thread:3236] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:17:24,261 [server][thread:3236] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:17:24,268 [server][thread:3236] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:17:56,848 [server][thread:6364] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:17:56,848 [server][thread:6364] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:17:56,856 [server][thread:6364] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:18:01,070 [index][thread:6364] D:\python3\tornadoFrame1\views\index.py[line39][INFO]:LiuyifeiHandler请求成功
+2020-04-26 23:19:40,237 [server][thread:12360] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:19:40,237 [server][thread:12360] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:19:40,245 [server][thread:12360] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:19:44,606 [index][thread:12360] D:\python3\tornadoFrame1\views\index.py[line39][INFO]:good--girl--beautiful
+2020-04-26 23:19:44,606 [index][thread:12360] D:\python3\tornadoFrame1\views\index.py[line40][INFO]:LiuyifeiHandler请求成功
+2020-04-26 23:20:14,669 [server][thread:19380] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:20:14,669 [server][thread:19380] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:20:14,676 [server][thread:19380] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:20:18,716 [index][thread:19380] D:\python3\tornadoFrame1\views\index.py[line39][INFO]:提取结果为：good--girl--beautiful
+2020-04-26 23:20:18,716 [index][thread:19380] D:\python3\tornadoFrame1\views\index.py[line40][INFO]:LiuyifeiHandler请求成功
+2020-04-26 23:21:16,879 [server][thread:15560] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:21:16,880 [server][thread:15560] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:21:16,888 [server][thread:15560] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:21:20,102 [index][thread:15560] D:\python3\tornadoFrame1\views\index.py[line38][INFO]:提取结果 h1:good,h2:girl,h3:beautiful
+2020-04-26 23:21:20,102 [index][thread:15560] D:\python3\tornadoFrame1\views\index.py[line39][INFO]:LiuyifeiHandler请求成功
+2020-04-26 23:21:41,590 [server][thread:3376] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:21:41,590 [server][thread:3376] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:21:41,597 [server][thread:3376] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:21:44,038 [index][thread:3376] D:\python3\tornadoFrame1\views\index.py[line38][INFO]:提取结果: h1=good,h2=girl,h3=beautiful
+2020-04-26 23:21:44,039 [index][thread:3376] D:\python3\tornadoFrame1\views\index.py[line39][INFO]:LiuyifeiHandler请求成功
+2020-04-26 23:28:15,690 [server][thread:8688] D:/python3/tornadoFrame1/server.py[line32][ERROR]:unknown extension ?h at position 23
+2020-04-26 23:28:25,233 [server][thread:13244] D:/python3/tornadoFrame1/server.py[line32][ERROR]:unknown extension ?h at position 23
+2020-04-26 23:29:34,157 [server][thread:17732] D:/python3/tornadoFrame1/server.py[line32][ERROR]:unknown extension ?h at position 23
+Traceback (most recent call last):
+  File "D:/python3/tornadoFrame1/server.py", line 22, in application_start
+    app = Application()
+  File "D:\python3\tornadoFrame1\application.py", line 24, in __init__
+    super(Application,self).__init__(handlers,**config.settings)
+  File "D:\python3\program\lib\site-packages\tornado\web.py", line 2085, in __init__
+    self.wildcard_router = _ApplicationRouter(self, handlers)
+  File "D:\python3\program\lib\site-packages\tornado\web.py", line 1931, in __init__
+    super(_ApplicationRouter, self).__init__(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 414, in __init__
+    super(ReversibleRuleRouter, self).__init__(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 332, in __init__
+    self.add_rules(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 344, in add_rules
+    rule = Rule(PathMatches(rule[0]), *rule[1:])
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 559, in __init__
+    self.regex = re.compile(path_pattern)
+  File "D:\python3\program\lib\re.py", line 234, in compile
+    return _compile(pattern, flags)
+  File "D:\python3\program\lib\re.py", line 286, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "D:\python3\program\lib\sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "D:\python3\program\lib\sre_parse.py", line 930, in parse
+    p = _parse_sub(source, pattern, flags & SRE_FLAG_VERBOSE, 0)
+  File "D:\python3\program\lib\sre_parse.py", line 426, in _parse_sub
+    not nested and not items))
+  File "D:\python3\program\lib\sre_parse.py", line 806, in _parse
+    len(char) + 1)
+re.error: unknown extension ?h at position 23
+2020-04-26 23:30:57,938 [server][thread:13060] D:/python3/tornadoFrame1/server.py[line32][ERROR]:groups in url regexes must either be all named or all positional: '/Liuyifei/(？P<h1>\\w+)/(?P<h3>\\w+)/(?P<h2>\\w*)$'
+Traceback (most recent call last):
+  File "D:/python3/tornadoFrame1/server.py", line 22, in application_start
+    app = Application()
+  File "D:\python3\tornadoFrame1\application.py", line 24, in __init__
+    super(Application,self).__init__(handlers,**config.settings)
+  File "D:\python3\program\lib\site-packages\tornado\web.py", line 2085, in __init__
+    self.wildcard_router = _ApplicationRouter(self, handlers)
+  File "D:\python3\program\lib\site-packages\tornado\web.py", line 1931, in __init__
+    super(_ApplicationRouter, self).__init__(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 414, in __init__
+    super(ReversibleRuleRouter, self).__init__(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 332, in __init__
+    self.add_rules(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 344, in add_rules
+    rule = Rule(PathMatches(rule[0]), *rule[1:])
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 565, in __init__
+    "positional: %r" % self.regex.pattern
+AssertionError: groups in url regexes must either be all named or all positional: '/Liuyifei/(？P<h1>\\w+)/(?P<h3>\\w+)/(?P<h2>\\w*)$'
+2020-04-26 23:31:14,237 [server][thread:8992] D:/python3/tornadoFrame1/server.py[line32][ERROR]:groups in url regexes must either be all named or all positional: '/Liuyifei/(？P<h1>\\w+)/(?P<h3>\\w+)/(?P<h2>\\w+)$'
+Traceback (most recent call last):
+  File "D:/python3/tornadoFrame1/server.py", line 22, in application_start
+    app = Application()
+  File "D:\python3\tornadoFrame1\application.py", line 24, in __init__
+    super(Application,self).__init__(handlers,**config.settings)
+  File "D:\python3\program\lib\site-packages\tornado\web.py", line 2085, in __init__
+    self.wildcard_router = _ApplicationRouter(self, handlers)
+  File "D:\python3\program\lib\site-packages\tornado\web.py", line 1931, in __init__
+    super(_ApplicationRouter, self).__init__(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 414, in __init__
+    super(ReversibleRuleRouter, self).__init__(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 332, in __init__
+    self.add_rules(rules)
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 344, in add_rules
+    rule = Rule(PathMatches(rule[0]), *rule[1:])
+  File "D:\python3\program\lib\site-packages\tornado\routing.py", line 565, in __init__
+    "positional: %r" % self.regex.pattern
+AssertionError: groups in url regexes must either be all named or all positional: '/Liuyifei/(？P<h1>\\w+)/(?P<h3>\\w+)/(?P<h2>\\w+)$'
+2020-04-26 23:31:52,009 [server][thread:6364] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:31:52,010 [server][thread:6364] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:31:52,017 [server][thread:6364] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:36:10,744 [server][thread:16776] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:36:10,744 [server][thread:16776] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:36:10,751 [server][thread:16776] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:36:26,305 [server][thread:4400] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:36:26,306 [server][thread:4400] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:36:26,313 [server][thread:4400] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:36:36,316 [server][thread:10204] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.244']
+2020-04-26 23:36:36,316 [server][thread:10204] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
+2020-04-26 23:36:36,323 [server][thread:10204] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-04-26 23:36:41,859 [index][thread:10204] D:\python3\tornadoFrame1\views\index.py[line38][INFO]:提取结果: h1=good,h2=beautiful,h3=girl
+2020-04-26 23:36:41,859 [index][thread:10204] D:\python3\tornadoFrame1\views\index.py[line39][INFO]:LiuyifeiHandler请求成功
