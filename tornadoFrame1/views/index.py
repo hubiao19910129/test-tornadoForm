@@ -59,7 +59,7 @@ import os
 import config
 class AgentHandler(RequestHandler):
     def get(self,*args,**kwargs):
-        file = os.path.join(config.settings["templates_path"], "postfile.html")
+        file = os.path.join(config.settings["templates_path"],"postfile.html")
         self.render(file)
     def post(self,*args,**kwargs):
         name = self.get_body_argument("username")
@@ -68,3 +68,50 @@ class AgentHandler(RequestHandler):
         hobbyList = self.get_body_arguments("hobby")
         print(name,passWd,hobbyList)
         self.write("This is a fan day!")
+
+#request对象：http://192.168.137.1:8000/zhude?a=1&b=2
+class ZhudeHandler(RequestHandler):
+    def get(self,*args,**kwargs):
+        #请求方法
+        print("method:{}".format(self.request.method))
+        print("host:{}".format(self.request.host))
+        print("uri:{}".format(self.request.uri))
+        print("path:{}".format(self.request.path))
+        #请求参数
+        print("query:{}".format(self.request.query))
+        print("version:{}".format(self.request.version))
+        print("headers:\n{}".format(self.request.headers))
+        print("body:\n{}".format(self.request.body))
+        #客户端IP
+        print("remote_ip:\n{}".format(self.request.remote_ip))
+        #上传文件,files结构需要关注
+        print("files:\n{}".format(self.request.files))
+
+        self.write("zhude is a good man")
+
+#文件上传
+class LinqingxiaHandler(RequestHandler):
+    def get(self, *args, **kwargs):
+        file = os.path.join(config.settings["templates_path"], "upfiles.html")
+        self.render(file)
+    def post(self,*args,**kwargs):
+        try:
+            filesDict = self.request.files
+            print(filesDict)
+            for keyName in filesDict:
+                fileArr = filesDict[keyName]
+                for fileObj in fileArr:
+                    #存储路径
+                    if fileObj.content_type == 'text/plain':
+                        filePath = os.path.join(config.BASE_DIRS, "upfile/file/" + fileObj.filename)
+                    elif fileObj.content_type == 'image/jpeg':
+                        filePath = os.path.join(config.BASE_DIRS, "upfile/img/" + fileObj.filename)
+                    else:
+                        print("上传文件的类型不存在")
+                    with open(filePath,"wb") as f:
+                        f.write(fileObj.body)
+        except Exception as e:
+            print(e)
+
+
+        self.write("ok")

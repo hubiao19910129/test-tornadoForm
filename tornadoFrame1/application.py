@@ -25,6 +25,12 @@ class Application(tornado.web.Application):
             #post
             (r"/Agent",index.AgentHandler),
 
+            #request
+            (r"/zhude",index.ZhudeHandler),
+
+            #文件上传
+            (r"/Linqingxia",index.LinqingxiaHandler),
+
         ]
 
 
