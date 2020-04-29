@@ -112,6 +112,56 @@ class LinqingxiaHandler(RequestHandler):
                         f.write(fileObj.body)
         except Exception as e:
             print(e)
+        finally:
+            self.write("ok")
 
+#接口调用顺序
+class InvokeHandler(RequestHandler):
+    # 默认请求头
+    def set_default_headers(self):
+        print("set_default_headers")
+    #请求前初始化
+    def initialize(self):
+        print("initialize")
+    #请求前预处理
+    def prepare(self):
+        print("prepare")
 
-        self.write("ok")
+    def get(self,*args,**kwargs):
+        print("get")
+        self.send_error(500)
+        self.write("hahahahaha")
+    #返回错误信息
+    def write_error(self, status_code, **kwargs):
+        print("write_error")
+        self.write("服务器内部错误")
+    #在该方法中进行资源清理释放，或者是日志处理
+    def on_finish(self):
+        print("on_finish")
+    '''成功请求顺序，没有报错，不调write_error
+    set_default_headers
+    initialize
+    prepare
+    get
+    on_finish
+    '''
+    '''服务器内部错误时的顺序
+    set_default_headers
+    initialize
+    prepare
+    get
+    set_default_headers
+    write_error
+    on_finish
+    '''
+class HomeHandler(RequestHandler):
+
+    def get(self,*args,**kwargs):
+        try:
+            file = os.path.join(config.settings["templates_path"],"home.html")
+            tmp = 100
+            self.render(file,num = tmp)
+        except Exception as e:
+            print(e)
+        finally:
+            self.write("home is ok")

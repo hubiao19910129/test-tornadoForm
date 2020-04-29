@@ -31,6 +31,12 @@ class Application(tornado.web.Application):
             #文件上传
             (r"/Linqingxia",index.LinqingxiaHandler),
 
+            #接口调用顺序
+            (r"/Invoke",index.InvokeHandler),
+
+            #语法,表达式
+            (r"/home",index.HomeHandler),
+
         ]
 
 
