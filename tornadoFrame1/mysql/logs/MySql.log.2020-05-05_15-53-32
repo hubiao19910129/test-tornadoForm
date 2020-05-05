@@ -1,0 +1,23 @@
+2020-05-05 15:53:32,614 [mysql_sunck][thread:47692] D:/python3/tornadoFrame1/mysql/mysql_sunck.py[line21][ERROR]:172.20.5.69@test数据库连接失败
+2020-05-05 15:53:32,616 [mysql_sunck][thread:47692] D:/python3/tornadoFrame1/mysql/mysql_sunck.py[line22][ERROR]:(2003, "Can't connect to MySQL server on '172.20.5.69' (timed out)")
+Traceback (most recent call last):
+  File "D:\python3\project\venv\lib\site-packages\pymysql\connections.py", line 583, in connect
+    **kwargs)
+  File "D:\python3\program\lib\socket.py", line 727, in create_connection
+    raise err
+  File "D:\python3\program\lib\socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/python3/tornadoFrame1/mysql/mysql_sunck.py", line 16, in connect
+    self.db = pymysql.connect(self.host,self.user,self.passWd,self.dbName)
+  File "D:\python3\project\venv\lib\site-packages\pymysql\__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "D:\python3\project\venv\lib\site-packages\pymysql\connections.py", line 325, in __init__
+    self.connect()
+  File "D:\python3\project\venv\lib\site-packages\pymysql\connections.py", line 630, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '172.20.5.69' (timed out)")

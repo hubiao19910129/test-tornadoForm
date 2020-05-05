@@ -2,9 +2,10 @@
 import os
 BASE_DIRS = os.path.dirname(__file__)
 
-##### 参数部分,端口号范围8000~60000/65535最合适
+##### http.server绑定端口
+## 端口号范围8000~60000/65535最合适
 options = {
-    "port":8000,
+    "port":8001,
     }
 
 ##### 配置
@@ -24,3 +25,16 @@ mq = {"IP":"172.20.6.22",
       "listener_name":"MqLibrary",
       }
 
+##### MySql
+MySql = {"host":"172.20.5.69",
+         "user":"test",
+         "passWd":"111111",
+         "dbName":"app_release",
+         }
+
+##### Oracle
+Oracle = {"host":"172.20.6.22:1521",
+         "user":"agent_user2",
+         "passWd":"123456",
+         "dbName":"mpos",
+         }

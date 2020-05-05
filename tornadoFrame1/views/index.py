@@ -1,14 +1,15 @@
 from tornado.web import RequestHandler
 from logconfig.package_timeRotateLog import RotateLog
-logger = RotateLog().time_rotate_log()
+logger = RotateLog().viewIndex()
 
 class IndexHandler(RequestHandler):
     def get(self, *arge, **kwargs):
         #反向解析self.reverse_url("name")
         url = self.reverse_url("Zhuyin")
-        self.write("<a href = '%s'>去另一个界面</a>"%(url))
         logger.info("/IndexHandler请求成功……")
+        self.write("<a href = '%s'>去另一个界面win10</a>"%(url))
         logger.info("点击反向解析到url:{}".format(url))
+
 
 class HubiaoHandler(RequestHandler):
     def initialize(self,word1,word2):
@@ -51,7 +52,7 @@ class ZhangmanyuHandler(RequestHandler):
         c = self.get_query_argument(name="c", default=100, strip=True)
         #get_query_arguments可以取多个相同name的值，返回的是一个列表
         d = self.get_query_arguments(name="a",strip=True)
-        print(a,b,c,d)
+        logger.info(a,b,c,d)
         self.write("Zhangmanyu is a good girl")
 
 #post传参
@@ -66,26 +67,26 @@ class AgentHandler(RequestHandler):
         #get_argument应用于get、post请求都可以
         passWd = self.get_argument("passwd")
         hobbyList = self.get_body_arguments("hobby")
-        print(name,passWd,hobbyList)
+        logger.info(name,passWd,hobbyList)
         self.write("This is a fan day!")
 
 #request对象：http://192.168.137.1:8000/zhude?a=1&b=2
 class ZhudeHandler(RequestHandler):
     def get(self,*args,**kwargs):
         #请求方法
-        print("method:{}".format(self.request.method))
-        print("host:{}".format(self.request.host))
-        print("uri:{}".format(self.request.uri))
-        print("path:{}".format(self.request.path))
+        logger.info("method:{}".format(self.request.method))
+        logger.info("host:{}".format(self.request.host))
+        logger.info("uri:{}".format(self.request.uri))
+        logger.info("path:{}".format(self.request.path))
         #请求参数
-        print("query:{}".format(self.request.query))
-        print("version:{}".format(self.request.version))
-        print("headers:\n{}".format(self.request.headers))
-        print("body:\n{}".format(self.request.body))
+        logger.info("query:{}".format(self.request.query))
+        logger.info("version:{}".format(self.request.version))
+        logger.info("headers:\n{}".format(self.request.headers))
+        logger.info("body:\n{}".format(self.request.body))
         #客户端IP
-        print("remote_ip:\n{}".format(self.request.remote_ip))
+        logger.info("remote_ip:\n{}".format(self.request.remote_ip))
         #上传文件,files结构需要关注
-        print("files:\n{}".format(self.request.files))
+        logger.info("files:\n{}".format(self.request.files))
 
         self.write("zhude is a good man")
 
@@ -97,7 +98,7 @@ class LinqingxiaHandler(RequestHandler):
     def post(self,*args,**kwargs):
         try:
             filesDict = self.request.files
-            print(filesDict)
+            logger.info(filesDict)
             for keyName in filesDict:
                 fileArr = filesDict[keyName]
                 for fileObj in fileArr:
@@ -107,11 +108,11 @@ class LinqingxiaHandler(RequestHandler):
                     elif fileObj.content_type == 'image/jpeg':
                         filePath = os.path.join(config.BASE_DIRS, "upfile/img/" + fileObj.filename)
                     else:
-                        print("上传文件的类型不存在")
+                        logger.info("上传文件的类型不存在")
                     with open(filePath,"wb") as f:
                         f.write(fileObj.body)
         except Exception as e:
-            print(e)
+            logger.exception(e)
         finally:
             self.write("ok")
 
@@ -119,25 +120,25 @@ class LinqingxiaHandler(RequestHandler):
 class InvokeHandler(RequestHandler):
     # 默认请求头
     def set_default_headers(self):
-        print("set_default_headers")
+        logger.info("set_default_headers")
     #请求前初始化
     def initialize(self):
-        print("initialize")
+        logger.info("initialize")
     #请求前预处理
     def prepare(self):
-        print("prepare")
+        logger.info("prepare")
 
     def get(self,*args,**kwargs):
-        print("get")
+        logger.info("get")
         self.send_error(500)
         self.write("hahahahaha")
     #返回错误信息
     def write_error(self, status_code, **kwargs):
-        print("write_error")
+        logger.info("write_error")
         self.write("服务器内部错误")
     #在该方法中进行资源清理释放，或者是日志处理
     def on_finish(self):
-        print("on_finish")
+        logger.info("on_finish")
     '''成功请求顺序，没有报错，不调write_error
     set_default_headers
     initialize
@@ -162,6 +163,6 @@ class HomeHandler(RequestHandler):
             tmp = 100
             self.render(file,num = tmp)
         except Exception as e:
-            print(e)
+            logger.exception(e)
         finally:
             self.write("home is ok")

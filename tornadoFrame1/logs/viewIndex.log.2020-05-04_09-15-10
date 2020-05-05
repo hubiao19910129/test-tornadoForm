@@ -1,0 +1,4 @@
+2020-05-04 09:15:10,185 [index][thread:31852] D:\python3\tornadoFrame1\views\index.py[line31][INFO]:
+请求参数Word1:cool
+请求参数Word2:beautiful
+2020-05-04 09:15:10,188 [index][thread:31852] D:\python3\tornadoFrame1\views\index.py[line33][INFO]:/ZhuyinHandler请求成功……

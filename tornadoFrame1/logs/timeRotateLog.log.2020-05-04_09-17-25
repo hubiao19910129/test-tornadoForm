@@ -1,0 +1,9 @@
+2020-05-04 09:12:26,925 [server][thread:29352] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.109']
+2020-05-04 09:12:26,926 [server][thread:29352] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8001
+2020-05-04 09:12:26,928 [server][thread:29352] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-05-04 09:12:46,022 [server][thread:31852] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.109']
+2020-05-04 09:12:46,022 [server][thread:31852] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8001
+2020-05-04 09:12:46,026 [server][thread:31852] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
+2020-05-04 09:17:25,410 [server][thread:32428] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5', '10.1.1.109']
+2020-05-04 09:17:25,410 [server][thread:32428] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8001
+2020-05-04 09:17:25,412 [server][thread:32428] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……

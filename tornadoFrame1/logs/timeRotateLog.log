@@ -1,17 +1,3 @@
-2020-04-27 22:13:21,084 [server][thread:19452] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5']
-2020-04-27 22:13:21,094 [server][thread:19452] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-27 22:13:21,119 [server][thread:19452] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-27 22:13:25,891 [server][thread:2616] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5']
-2020-04-27 22:13:25,891 [server][thread:2616] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8000
-2020-04-27 22:13:25,898 [server][thread:2616] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……
-2020-04-27 22:17:31,568 [activemq][thread:9716] D:/python3/tornadoFrame1/mq/activemq.py[line49][ERROR]:
-Traceback (most recent call last):
-  File "D:/python3/tornadoFrame1/mq/activemq.py", line 41, in send_to_queue
-    conn.connect()
-  File "D:\python3\program\lib\site-packages\stomp\connect.py", line 107, in connect
-    self.transport.start()
-  File "D:\python3\program\lib\site-packages\stomp\transport.py", line 104, in start
-    self.attempt_connection()
-  File "D:\python3\program\lib\site-packages\stomp\transport.py", line 800, in attempt_connection
-    raise exception.ConnectFailedException()
-stomp.exception.ConnectFailedException
+2020-05-05 15:29:11,732 [server][thread:47312] D:/python3/tornadoFrame1/server.py[line26][INFO]:服务IP地址为['192.168.137.1', '192.168.1.5']
+2020-05-05 15:29:11,744 [server][thread:47312] D:/python3/tornadoFrame1/server.py[line27][INFO]:服务绑定端口为8001
+2020-05-05 15:29:11,779 [server][thread:47312] D:/python3/tornadoFrame1/server.py[line29][INFO]:服务启动成功……

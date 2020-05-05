@@ -1,0 +1,6 @@
+2020-05-04 09:17:34,024 [index][thread:32428] D:\python3\tornadoFrame1\views\index.py[line9][INFO]:/IndexHandler请求成功……
+2020-05-04 09:17:34,027 [index][thread:32428] D:\python3\tornadoFrame1\views\index.py[line11][INFO]:点击反向解析到url:/fanxiangjiexi
+2020-05-04 09:17:48,472 [index][thread:32428] D:\python3\tornadoFrame1\views\index.py[line31][INFO]:
+请求参数Word1:cool
+请求参数Word2:beautiful
+2020-05-04 09:17:48,473 [index][thread:32428] D:\python3\tornadoFrame1\views\index.py[line33][INFO]:/ZhuyinHandler请求成功……
